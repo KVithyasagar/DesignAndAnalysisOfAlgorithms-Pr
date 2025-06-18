@@ -1,14 +1,11 @@
 # DesignAndAnalysisOfAlgorithms-Pr
 DAA-Pr
-practical 1 code & output
-![1](https://github.com/user-attachments/assets/5a7dd285-7d61-4c0a-a5bd-e0c2b1246abf)
+practical 1 copractical 1 code & output
+![Screenshot (60)](https://github.com/user-attachments/assets/7a8ef01c-89ac-468e-a7a9-24e4420cd72f)
+
+![Screenshot (61)](https://github.com/user-attachments/assets/66948683-40f3-4f22-a952-3ee2b619936a)
 
 
 
 practical 2 code & output
-![2](https://github.com/user-attachments/assets/a09c5fdf-5f49-4880-b324-3b98b59ab14e)
-
-
-
-practical 3 code & output
-![3](https://github.com/user-attachments/assets/cc875ee3-d2c4-4d3c-8d8c-a80b788e5639)
+![Screenshot (64)](https://github.com/user-attachments/assets/50a267d6-75b3-4f07-857f-e493d60574ec)
